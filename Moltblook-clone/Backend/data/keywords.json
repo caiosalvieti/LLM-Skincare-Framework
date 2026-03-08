@@ -1,0 +1,29 @@
+{
+    "keywords": [
+      {
+        "keyword": "ceramides",
+        "weight": 2.5,
+        "category": "barrier_repair"
+      },
+      {
+        "keyword": "hyaluronic acid",
+        "weight": 1.5,
+        "category": "hydration"
+      },
+      {
+        "keyword": "niacinamide",
+        "weight": 2.0,
+        "category": "active_ingredient"
+      },
+      {
+        "keyword": "salicylic acid",
+        "weight": 2.0,
+        "category": "exfoliant"
+      },
+      {
+        "keyword": "sunscreen",
+        "weight": 3.0,
+        "category": "protection"
+      }
+    ]
+  }
